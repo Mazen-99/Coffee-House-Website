@@ -1,12 +1,49 @@
-# React + Vite
+# ☕ Coffee House - Premium Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and animated landing page for a fictional high-end coffee shop. This project focuses on clean UI, smooth transitions, and a premium user experience using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+> [!NOTE]
+> **Disclaimer:** This is a practice project built for educational purposes and to showcase front-end development skills. It does not represent a real business.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **📱 Fully Responsive:** Optimized for all screen sizes from mobile to desktop.
+- **🎨 Premium UI:** Custom curated color palette (`#3B141C`, `#F3961C`) for a warm, coffee-themed aesthetic.
+- **🎬 Smooth Animations:** Integrated **Framer Motion** for staggered reveals, entrance effects, and interactive hover states.
+- **🖱️ Smooth Scrolling:** Easy navigation between sections using `react-scroll`.
+- **🖼️ Interactive Gallery:** A clean showcase of products and atmosphere.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Framework:** [React 19](https://reactjs.org/)
+- **Bundler:** [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mazen-99/Coffee-House-Website.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd Coffee-House-Website
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Run the development server:**
+   ```bash
+   npm start
+   ```
+
+---
+Developed with ❤️ by Mazen Ahmed
